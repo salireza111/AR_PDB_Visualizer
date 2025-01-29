@@ -12,7 +12,7 @@ Ever dreamed of touching your protein? Now you can—virtually—with AR_PDB Vie
 </div>
 
 
-![scene](./Demo.webp)
+![scene](./demo.webp)
 
 
 ##### Change the path for your designated PDB
