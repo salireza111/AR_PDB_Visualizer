@@ -1,4 +1,4 @@
-# Relax-Bench 🪑
+# 🔮 AR PDB Visualizer
 ---
 ##### Jan 29, 2025 | S.Alireza Hashemi
 
